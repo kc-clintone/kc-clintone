@@ -13,13 +13,11 @@
 
 - 👯 I’m looking to collaborate on **Any Next.js and React.js projects**
 
-- 👨‍💻 All of my projects are available at [Kayseeclintone.com](Kayseeclintone.com)
+- 👨‍💻 All of my projects are available at [github.com/XtremeArt-KC](github.com/XtremeArt-KC)
 
-- 💬 Ask me about **Html,css,js and**
+- 💬 Ask me about **Html,css,js and jokes**
 
 - 📫 Reach me through email: **Kayseeclintone@gmail.com**
-
-- 📄 Know about my experiences [XtremeartKC.com](XtremeartKC.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

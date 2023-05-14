@@ -24,7 +24,7 @@
 <!-- language stats -->
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kc-clintone&show_icons=true&locale=en&layout=compact" alt="kc-clintone" /></p>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kc-clintone&repo=github-readme-stats)](https://github.com/kc-clintone/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api?username=kc-clintone&repo=VSCode)](https://github.com/kc-clintone/github-readme-stats)
 
 <!-- top languages i use -->
 <h3 align="left">Languages and Tools:</h3>

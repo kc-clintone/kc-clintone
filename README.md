@@ -5,7 +5,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kc-clintone&show_icons=true&theme=transparent&rank_icon=github)
 <!-- statuses -->
-<p align="left"> <a href="https://twitter.com/@kc_clintone" target="blank"><img src="https://img.shields.io/twitter/follow/kcphosteen?logo=twitter&style=for-the-badge" alt="@kcphosteen" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@kc_clintone" target="blank"><img src="https://img.shields.io/twitter/follow/kc_clintone?logo=twitter&style=for-the-badge" alt="@kcphosteen" /></a> </p>
 
 - 🔭 I’m currently working on **A ReactNative Mobile Application**
 

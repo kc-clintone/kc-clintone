@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://unsplash.com/photos/people-sitting-down-near-table-with-assorted-laptop-computers-SYTO3xs06fU" alt="Banner" width="100%" />
+    <img src="https://emerging-europe.com/wp-content/uploads/2018/11/bigstock-abstract-technology-background-250119211.jpg" alt="Banner" width="100%" />
 </div>
 
 

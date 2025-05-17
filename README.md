@@ -81,6 +81,15 @@
 
 ---
 
+## 🧠 Currently Learning
+
+- 🌐 Advanced React Patterns & Server-side rendering
+- 📱 React Native + Expo for mobile dev
+- 🔧 Docker & CI/CD pipelines
+- 🤖 AI APIs & building with GPT
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -88,6 +97,15 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kc-clintone&theme=solarized-dark&hide_border=false" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kc-clintone&theme=solarized-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </p>
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Tech Stack |
+|--------|-------------|------------|
+| [📌 XtremeArt YouTube Clone](https://github.com/kc-clintone/youtube_clone) | A full-stack YouTube clone with video uploads, real-time streaming, and user auth. | ![Next.js](https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js) ![Node.js](https://img.shields.io/badge/node.js-green?style=flat&logo=node.js) ![tRPC](https://img.shields.io/badge/tRPC-%23E10098?style=flat&logo=trpc&logoColor=white) ![Upstash](https://img.shields.io/badge/Upstash-%23000000.svg?style=flat&logo=upstash) ![Clerk](https://img.shields.io/badge/Clerk-%23ff4a4a.svg?style=flat&logo=clerk&logoColor=white) ![Mux](https://img.shields.io/badge/Mux-EA4AAA?style=flat&logo=mux&logoColor=white) ![Drizzle](https://img.shields.io/badge/DrizzleKit-0095D5?style=flat&logo=drizzle&logoColor=white) ![Neon](https://img.shields.io/badge/Neon-%2300F?style=flat&logo=neon&logoColor=white) |
+| [📌 Sensei AI SaaS](https://github.com/kc-clintone/Sensei-ai_saas) | An AI SaaS platform offering chat, summarization, code generation, and more—powered by OpenAI. | ![Next.js](https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white) ![Clerk](https://img.shields.io/badge/Clerk-%23ff4a4a.svg?style=flat&logo=clerk&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat&logo=prisma&logoColor=white) |
 
 ---
 

@@ -117,7 +117,5 @@
 ---
 
 <p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=kc-clintone&icon=0&color=9" alt="Visitor Count" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=clintoo&color=blue&style=flat" alt="Profile Views"/>
 </p>

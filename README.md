@@ -3,23 +3,41 @@
 </div>
 
 <h1 align="center">Hello, world 👋, I'm Clinton</h1>
-<h3 align="center">Web Dev | Mobile Dev | Front-End | Back-End | Python | JavaScript | React | Databases</h3>
+<h3 align="center">Full-stack Developer | React | Next.js | SaaS Solutions  
+Open for freelance & contract opportunities</h3>
 
 ---
 
-## 🌐 Connect with Me
+## 💡 About Me
 
-<p align="center">
-  <a href="https://linkedin.com/in/clinton-otieno">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://medium.com/@kc-clintone">
-    <img src="https://img.shields.io/badge/Medium-%2312100E.svg?style=for-the-badge&logo=medium&logoColor=white" />
-  </a>
-  <a href="https://x.com/kc_clintone">
-    <img src="https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white" />
-  </a>
-</p>
+I'm a results-driven full-stack developer with 3+ years of experience building scalable web and mobile applications for startups and SMEs. I specialize in JavaScript, React, Next.js, Node.js, and cloud-based SaaS solutions. My work is focused on delivering robust, user-centric products with rapid turnaround and clear communication.
+
+---
+
+## 💼 Services I Offer
+
+- Custom web & mobile app development  
+- SaaS MVP launches  
+- AI & automation integrations  
+- Code reviews & technical consulting  
+- UI/UX improvements  
+
+If you have an idea or need technical expertise, let's turn your vision into reality!
+
+---
+
+## 📫 Let’s Work Together!
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:clinton.o.odhiambo@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/clinton-otieno)
+[![X (Twitter)](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/kc_clintone)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@kc-clintone)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kc-clintone)
+[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/kc-clintone)
+[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@kc-clintone)
+
+Open to freelance, contract, or collaboration opportunities.  
+Let’s build something amazing!
 
 ---
 
